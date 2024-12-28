@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carta{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin-top: 100px;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.arriba{
+    margin-left: 10px;
+}
+.medio{
+    margin-left: 90px;
+}
+.bajo{
+    margin-left: 170px;
+}
+.rojo{
+    color: red;
+}
+.negro{
+    color: black;
+}
